@@ -2,7 +2,10 @@
 
 Spring boot application using Java 21.
 
+Requirements: Java 21 or later.
+
 Startup:
+
 ```
 mvn clean spring-boot:run
 ```
